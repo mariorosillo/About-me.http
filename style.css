@@ -1,5 +1,5 @@
 .container{
-  padding-top: 3em; 
+  padding-top: 4em; 
 
 }
 
@@ -37,9 +37,7 @@ width: 9999em;
   width: 12em;
  
 }
-.simpson{
-  background-color: brown;
-}
+
 #carouselExampleCaptions{
   padding-top: 3em;
   padding-bottom: 2em;
