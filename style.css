@@ -1,23 +1,9 @@
 .container{
-  padding-top: 6em; 
+  padding-top: 3em; 
 
 }
 
-.Skills{
- 
- padding-top: 3em;
- padding-left: 1em;
- padding-bottom: 3em;  
 
-}
-
-#carouselExampleCaptions{
-   height: 0em;
-   width: 0em;
-  margin: auto;
-
-   
-}
 
 .resume{
  padding-top: 200px;
@@ -25,27 +11,6 @@
    
 }
 
-.cardtitle{
- overflow-wrap: break-word;
-
-}
-
-.card-img-top{
-
-  height: 50%;
-  width: 50%;
-}
-
-.card{
-height: 5em;
-  width: 20em;
-}
-
-.card-body{
-height: 2em;
-  width: 20em;
-
-}
 
 footer{
   height: 4em;
@@ -66,17 +31,20 @@ height: 1em;
 width: 9999em;
 }
 
-.table-primary{
- background-color: blue;
-
+.skills{
+  
+ padding-left: 30em;
+  padding-right: 30em;
+  width: 20em;
 }
 
-.table-L{
- 
-  background-color: blue;
+#carouselExampleCaptions{
+  padding-top: 5em;
 }
-.W-card{
-padding-bottom: 13em;
-   padding-top: 5em;
 
+.carousel-item img {
+  height: 20em; 
+  width: 60%;  
+  object-fit: cover; 
+  object-position: center; 
 }
